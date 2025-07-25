@@ -1,13 +1,14 @@
 # jemdoc: menu{MENU}{index.html}, nofooter
-== Yunsen XING
+== Yunsen Xing's Webpage
 
 ~~~
 {}{img_left}{photos/icon.png}{alt text}{320px}{245px}
-[https://github.com/YunsenXing Yunsen XING], \n 
+[https://github.com/YunsenXing YUNSEN XING] \n 
 MSc Student @ [https://www.kth.se/en KTH Royal Institute of Technology] & [https://www.aalto.fi/en Aalto University] \n
 Stockholm, Sweden \n
 Email: [xystyut@gmail.com] \n
 ~~~
+
 
 #== News
 #- \[05-15-2020\] "List-wise fairness criterion for point processes" is accepted by KDD'20!
