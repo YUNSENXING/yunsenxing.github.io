@@ -1,5 +1,5 @@
 # jemdoc: menu{MENU}{index.html}, nofooter
-== Yunsen Xing's Webpage
+= Yunsen Xing's Webpage
 
 ~~~
 {}{img_left}{../photos/icon.png}{alt text}{320px}{245px}
@@ -31,7 +31,7 @@ Email: [xystyut@gmail.com] / [yunsen@kth.se] \n
 # - B.S. in Theoretical and Applied Mechanics, University of Science and Technology of China, Sep. 2009 - Jun. 2013
 
 - MSc, KTH Royal Institute of Technology & Aalto University, Aug. 2025 – Now
-- BEng, Taiyuan University of Technology, Sep. 2020 – Jun. 2024
+- BEng, [https://english.tyut.edu.cn/ Taiyuan University of Technology ], Sep. 2020 – Jun. 2024
 
 #== Research Interests 
 #- Statistical Machine Learning, Deep Learning, Point Process, Optimization, Fairness
