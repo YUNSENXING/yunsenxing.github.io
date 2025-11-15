@@ -1,7 +1,8 @@
 # jemdoc: menu{MENU}{Projects.html}, nofooter
-= Projects
+= Assignments & Projects
 
-== Course Projects
+== Course Assignments
+
 
 === [https://www.kth.se/student/kurser/kurs/DD2410 DD2410 Introduction to Robotics]
 - [https://youtu.be/BG35I5bm5EE Assignment 1 - ROS2 Basics]
@@ -9,23 +10,42 @@
 - [https://youtu.be/7a1_ENbbNy4 Assignment 2 - IK functions Part II - KUKA]
 - [https://youtu.be/kLngKEflLxE Assignment 3 - planning]
 - [https://www.youtube.com/watch?v=59W-o12qmqE Assignment 4 - Mapping]
-- [https://github.com/YUNSENXING/DD2410-Introduction-to-Robotics/tree/master/Assignment/Assignment5 Assignment 5 - Mobile Robot Project]
+- [https://www.youtube.com/watch?v=dwe5SNWeoHo Assignment 5 - Mobile Robot Project]
 
-=== [https://www.kth.se/student/kurser/kurs/DD2421 DD2421 Machine Learning 7.5 credits]
+
+
+
+=== [https://www.kth.se/student/kurser/kurs/DD2421 DD2421 Machine Learning]
 - [https://github.com/YUNSENXING/DD2421-Machine-Learning/blob/master/Assignments/Assignment1%20Decision%20Trees/Presentation/Report/Presentation_ML_Lab_1.pdf Assignment 1 - Decision Trees ]
 - [https://github.com/YUNSENXING/DD2421-Machine-Learning/blob/master/Assignments/Assignment2%20Support%20Vector%20Machines/Presentation/Presentation_ML_Lab_2.pdf Assignment 2 - Support Vector Machines ]
 - [https://github.com/YUNSENXING/DD2421-Machine-Learning/blob/master/Assignments/Assignment3%20Bayes%20Classifiers%20and%20Boosting/Lab3.pdf Assignment 3 - Bayes Classifiers and Boosting]
+
+
+
+
+
 
 === [https://www.kth.se/student/kurser/kurs/ID2209 ID2209 Distributed Artificial Intelligence and Intelligent Agents]
 
 
 
-== Independent Projects
 
-=== [https://modelai.gettysburg.edu/2020/mapf/ A Project on Multi-Agent Path Finding]
+== Independent Assignments & Projects
+
+# === [https://modelai.gettysburg.edu/2020/mapf/ A Project on Multi-Agent Path Finding]
+
+
+
 
 === [https://inst.eecs.berkeley.edu/~cs188/fa25/ CS188 Introduction to Artificial Intelligence]
-- [https://github.com/YUNSENXING/CS188-Introduction-to-Artificial-Intelligence/tree/master/search Project 1 - Intelligent Pacman Search Agent]
+- [https://github.com/YUNSENXING/CS188-Introduction-to-Artificial-Intelligence/tree/master/Project1-Search Project 1 - Intelligent Pacman Search Agent]
+- [https://github.com/YUNSENXING/CS188-Introduction-to-Artificial-Intelligence/tree/master/Project3-reinforcement Project 3 - Reinforcement Learning]
+- [https://youtu.be/CTj4DKdnVCA Project 4 - Ghostbusters]
 
-=== [https://16-831.github.io/fall25/ Introduction to Robot Learning]
-- [https://github.com/YUNSENXING/CS188-Introduction-to-Artificial-Intelligence/tree/master/search Assignment 1 - Imitation Learning (Behavior Cloning and DAgger algorithm)]
+
+
+
+=== [https://16-831.github.io/fall25/ CMU - 16-831 Introduction to Robot Learning] & [https://cs224r.stanford.edu/ CS 224R Deep Reinforcement Learning]
+- [https://github.com/YUNSENXING/Robot_Learning/tree/master/HomeWork/hw1 Assignment 1 - Imitation Learning (Behavior Cloning and DAgger algorithm)]
+- [https://github.com/YUNSENXING/Robot_Learning/blob/master/HomeWork/hw2/hw2_submission.pdf Assignment 2 - Policy Gradients]
+- [https://github.com/YUNSENXING/Robot_Learning/blob/master/HomeWork/hw2/hw2_submission.pdf Assignment 3 - Q-Learning and Actor-Critic Algorithms]
