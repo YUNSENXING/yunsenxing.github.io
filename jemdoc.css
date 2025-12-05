@@ -91,7 +91,7 @@ div.menu-item {
 
 div#toptitle {
 	padding-bottom: 0.2em;
-	margin-bottom: 1.5em;
+	margin-bottom: 0.6em;
 	border-bottom: 3px double gray;
 }
 
@@ -349,7 +349,7 @@ td {
 }
 
 table + table {
-    margin-top: 1em;
+    margin-top: 0.3em;
 }
 
 tr.heading {
@@ -365,3 +365,46 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+
+
+/* projects css start */
+.one {
+  position: relative;
+  width: 160px;
+  height: 160px;
+}
+
+.one img {
+  display: block;
+  width: 175px;
+  height: 160px;
+  border-radius: 4px;
+}
+
+.two {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 175px;
+  height: 160px;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+
+.hoverrow:hover .two {
+  opacity: 1;
+}
+
+/* XRocket card look & feel */
+.xrocket-card {
+  color: #333333;  /* 比纯黑 #000 柔和一点 */
+}
+
+.xrocket-card p,
+.xrocket-card li {
+  color: #444444;  /* 列表和段落再淡一点也行 */
+}
+
+
+/* projects css end */
