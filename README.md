@@ -4,5 +4,5 @@
 ``python3 ./jem/jemdoc.py *.jemdoc``
 
 # Windows: 
-``python ./jem/jemdoc.py ./index.jemdoc ./projects.jemdoc``
+``python ./jem/jemdoc.py ./index.jemdoc``
 
