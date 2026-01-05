@@ -22,8 +22,8 @@
       <h1>Assignments &amp; Projects</h1>
     </div>
 
-    <!-- Hover Project Card -->
-    <table class="imgtable" style="width:100%;border-spacing:0px 10px;border-collapse:separate;">
+    <!-- Project Card -->
+    <table class="imgtable project-card-no-color" style="width:100%;border-spacing:0px 10px;border-collapse:separate;">
       <tbody>
         <tr class="hoverrow" bgcolor="#ffffd0">
           <!-- 左侧悬浮图片 -->
@@ -49,46 +49,66 @@
             <p>
               with a focus on robustness, generalization, and failure-mode analysis across wind strengths and gust frequencies.
             </p>
-            <!-- <br /><br /> -->
-            <!-- <span href="#">GitHub</span> / <span href="#">Report</span>
-            <span style="color: #888; font-style: italic;">(coming soon)</span> -->
+            <br /><br />
+            <a target="_blank" href="#">GitHub</span> / <span href="#">Report</a>
+            <!-- <span style="color: #888; font-style: italic;">(coming soon)</span> -->
           </td>
         </tr>
       </tbody>
     </table>
-    
 
-    <!-- Hover Project Card -->
-    <!-- <table class="imgtable" style="width:100%;border-spacing:0px 10px;border-collapse:separate;">
+    <!-- Project Card: DD2410 Assignment 5 -->
+    <table class="imgtable" style="width:100%;border-spacing:0px 10px;border-collapse:separate;">
       <tbody>
         <tr class="hoverrow">
-          
-          <td style="padding:16px;width:20%;vertical-align:middle">
-            <div class="one">
-              <div class="two">
-                <img src="photos/gif_1.gif" alt="After" height="160px" width="160px">
-              </div>
-              <img src="photos/Airline.jpg" alt="Before" height="160px" width="160px">
+          <td style="padding:16px 28px 16px 16px; vertical-align:middle;">
+            <div class="yt-hover">
+              <!-- 从 438s 开始 -->
+              <iframe
+                class="project-gif"
+                src="https://www.youtube.com/embed/dwe5SNWeoHo?start=438&autoplay=1&mute=1&controls=1&loop=1&playlist=dwe5SNWeoHo&modestbranding=1&rel=0&playsinline=1"
+                title="DD2410 Assignment 5 Demo"
+                frameborder="0"
+                allow="autoplay; encrypted-media; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin"
+                allowfullscreen>
+              </iframe>
+
             </div>
-          </td> -->
+          </td>
 
           <!-- 右侧内容 -->
-          <!-- <td style="padding:8px;width:80%;vertical-align:middle">
+          <td style="padding:8px;width:80%;vertical-align:middle">
             <a href="#">
-              <span class="papertitle" style="font-size:18px;font-weight:700;">XRocket - Robot Learning Project </span>
+              <span class="papertitle" style="font-size:18px;font-weight:700;">
+                KTH DD2410 IROB - Assignment 5 (ROS2 Autonomous Navigation)
+              </span>
             </a>
             <br />
-            This is a custom hover-enabled project card you added to your website.
-            <br /><br />
-            <a href="#">GitHub</a> /
-            <a href="#">Report</a>
+
             <p>
-              You can place any project description here. Hover the image to see the animated change.
+              ROS2 Foxy project building an autonomous TurtleBot3 navigation pipeline using
+              <b>services</b> and <b>Behavior Trees</b>, with progressive milestones (E / C / A levels).
             </p>
+
+            <ul>
+              <li><b>E-Level:</b> Service integration + state machine navigation to goals</li>
+              <li><b>C-Level:</b> Behavior Tree + sensor integration + dynamic replanning</li>
+              <li><b>A-Level:</b> Full autonomy with localization (e.g., AMCL), nav stack & exploration</li>
+            </ul>
+
+            <p style="margin-top:8px;">
+              Focus: robust goal handling, recovery behaviors, and resilience to external interruptions
+              (goal changes, deactivation during execution, “kidnapped robot” scenarios).
+            </p>
+
+            <!-- <br/> -->
+            <!-- <span target="_blank" href="#">GitHub</a> / <a target="_blank" href="#">Report</a> -->
+            <!-- <br/> -->
           </td>
         </tr>
       </tbody>
-    </table> -->
+    </table>
 
     <h2>Course Assignments</h2>
 
@@ -108,6 +128,7 @@
       <li><p><a target="_blank" href="Files/DD2421/Presentation_ML_Lab_2.pdf">Assignment 2 - Support Vector Machines</a></p></li>
       <li><p><a target="_blank" href="Files/DD2421/Presentation_ML_Lab_3.pdf">Assignment 3 - Bayes Classifiers and Boosting</a></p></li>
     </ul>
+    
 
     <!-- <h3><a target="_blank" href="https://www.kth.se/student/kurser/kurs/II2202?l=en">II2202 Research Methodology and Scientific Writing</a></h3>
     <ul>
@@ -136,9 +157,11 @@
       <li><p><a target="_blank" href="Files/CMU16831/Assignment4.pdf">Assignment 4 - Model-Based RL and Exploration</a></p></li>
     </ul>
 
-  </td> <!-- 结束 layout-content -->
+    <h3><a target="_blank" href="https://ppc.cs.aalto.fi/">Aalto - Programming Parallel Computers</a></h3>
+
+  </td> 
 </tr>
-</table> <!-- 结束 tlayout -->
+</table>
 
 </body>
 </html>
