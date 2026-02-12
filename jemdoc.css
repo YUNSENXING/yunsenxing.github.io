@@ -403,5 +403,25 @@ table.imgtable, table.imgtable td {
 
 /* projects css end */
 
+/* track the visitor */
+.map-container {
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+    position: relative;
 
+    margin: 0 auto;          /* 水平居中 */
+	margin-top: 5%;
+}
+
+.map-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center; /* 水平居中 */
+}
+
+.map-scale {
+    transform: scale(0.75);
+    transform-origin: top left;
+}
 
